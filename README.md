@@ -58,21 +58,21 @@ Python 3.x
 
 NumPy
 
-<h2>1. Install NumPy</h2>
+<h3>1. Install NumPy</h3>
 
 If you don't have NumPy installed, you can get it via pip:
 
 pip install numpy
 
 
-<h2>2. Run the Script</h2>
+<h3>2. Run the Script</h3>
 
 Save the code as neural_network.py and run it from your terminal:
 
 python neural_network.py
 
 
-<h2>3. Expected Output</h2>
+<h3>3. Expected Output</h3>
 
 You will first see the network's structure, then see the training progress as the loss (error) decreases every 1000 epochs. Finally, you'll see the network's predictions on all four XOR cases.
 
