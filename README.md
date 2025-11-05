@@ -30,7 +30,7 @@ Sigmoid Activation: Uses the standard sigmoid activation function.
 
 Batch Training: The train method processes the entire dataset at once (batch gradient descent).
 
-<h1>How It Works</h1>Ωœ
+<h1>How It Works</h1>
 
 The network is contained in the neural_network.py file and is built in a single class.
 
